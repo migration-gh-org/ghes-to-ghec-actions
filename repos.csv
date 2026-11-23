@@ -1,2 +1,3 @@
 ghes_org,ghes_repo,repo_url,repo_size_MB,github_org,github_repo,gh_repo_visibility,reviewer
-ghes-factory-demo,solar-system,https://antgrutta-07mubd.ghe-test.com/ghes-factory-demo/solar-system,2.02,ms-factory-org-01,solar-system-auto,private,bharath-rjendran
+ghes-mig-org,ruleset-poc,https://ghes.msft-factory.github-apps.io/ghes-mig-org/ruleset-poc,0,migration-gh-org,rules-poc-nov23,private,pauljaison
+ghes-mig-org,java-app,https://ghes.msft-factory.github-apps.io/ghes-mig-org/java-app,0,migration-gh-org,java-app-nov23,private,pauljaison
